@@ -2,7 +2,8 @@
 name: Filippo Dalla
 image: images/filippo_dalla.png
 role: phd
-order: 2
+order: 5
+category: current
 affiliation: University of Bologna - INFN Bologna
 links:
   home-page: https://www.unibo.it/sitoweb/filippo.dalla3/en
