@@ -5,9 +5,9 @@ role: phd
 order: 10
 affiliation: University of Bologna, INFN-CNAF, CERN
 links:
-    home-page: https://www.unibo.it/sitoweb/simone.balducci7/en
-    github: sbaldu
-    email: simone.balducci7@unibo.it, simone.balducci@cern.ch
+  home-page: https://www.unibo.it/sitoweb/simone.balducci7/en
+  github: sbaldu
+  email: simone.balducci7@unibo.it
 ---
 
 <p style="font-family: 'Georgia', serif; font-size: 18px;">
