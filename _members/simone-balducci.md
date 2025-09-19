@@ -2,7 +2,8 @@
 name: Simone Balducci
 image: https://github.com/sbaldu.png
 role: phd
-order: 10
+order: 1
+category: external
 affiliation: University of Bologna, INFN-CNAF, CERN
 links:
   home-page: https://www.unibo.it/sitoweb/simone.balducci7/en
